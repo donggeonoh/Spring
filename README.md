@@ -4,4 +4,4 @@
 ##### Dankook UNIV.
 
 mentor  : Yoon Ji-soo  
-mentees : Oh Dong-geon, Hyung Joon-hyuk
+mentees : Oh Dong-geon, Hyoung Joon-hyuck
